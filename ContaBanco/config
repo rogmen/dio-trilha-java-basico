@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://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:dio@gitlab.com/rogmen/dio-trilha-java-basico
+	fetch = +refs/heads/*:refs/remotes/origin/*
